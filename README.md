@@ -151,7 +151,8 @@ jupyter notebook
 Machine Learning | Data Science | Generative AI  
 📍 Pune, India  
 
- **Portfolio:** https://narendratekale.com/  
- **LinkedIn:** https://www.linkedin.com/in/narendra-tekale/  
+[My Portfolio](https://narendratekale.com/)
+ 
+[My Portfolio](https://www.linkedin.com/in/narendra-tekale/)
 
 
