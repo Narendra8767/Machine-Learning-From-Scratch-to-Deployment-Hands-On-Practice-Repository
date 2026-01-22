@@ -37,6 +37,36 @@ The focus of this repository is practical understanding, mathematical intuition,
 - **Hyperparameter Optimization:** Optuna  
 - **Model Persistence:** Pickle
 
+  ##  Setup & Installation
+
+Follow the steps below to set up the project locally:
+
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+
+# Navigate to the project directory
+cd your-repo-name
+
+# Install required dependencies
+pip install -r requirements.txt
+
+# Launch Jupyter Notebook
+jupyter notebook
+
+##  Author
+
+**Narendra Tekale**  
+Machine Learning | Data Science | Generative AI  
+📍 Pune, India  
+
+[My Portfolio](https://narendratekale.com/)
+ 
+[My Portfolio](https://www.linkedin.com/in/narendra-tekale/)
+
+
+
+
 ```bash
 ├── 01-Numpy
 ├── 02-Advance_Numpy.py
@@ -127,34 +157,5 @@ The focus of this repository is practical understanding, mathematical intuition,
 │   └── 70pipe.pkl
 │
 └── README.md
-```bash
-
-
-##  Setup & Installation
-
-Follow the steps below to set up the project locally:
-
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-
-# Navigate to the project directory
-cd your-repo-name
-
-# Install required dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter Notebook
-jupyter notebook
-
-##  Author
-
-**Narendra Tekale**  
-Machine Learning | Data Science | Generative AI  
-📍 Pune, India  
-
-[My Portfolio](https://narendratekale.com/)
- 
-[My Portfolio](https://www.linkedin.com/in/narendra-tekale/)
 
 
