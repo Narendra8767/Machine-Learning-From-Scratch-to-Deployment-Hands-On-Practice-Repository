@@ -37,7 +37,7 @@ The focus of this repository is practical understanding, mathematical intuition,
 - **Hyperparameter Optimization:** Optuna  
 - **Model Persistence:** Pickle
 
-
+```bash
 ├── 01-Numpy
 ├── 02-Advance_Numpy.py
 ├── 03-Pandas.py
@@ -127,25 +127,22 @@ The focus of this repository is practical understanding, mathematical intuition,
 │   └── 70pipe.pkl
 │
 └── README.md
+```bash
+
 
 ##  Setup & Installation
 
 Follow the steps below to set up the project locally:
 
 # Clone the repository
-```bash
 git clone https://github.com/your-username/your-repo-name.git
-```bash
+
 
 # Navigate to the project directory
-```bash
 cd your-repo-name
-```bash
 
 # Install required dependencies
-```bash
 pip install -r requirements.txt
-```bash
 
 # Launch Jupyter Notebook
 jupyter notebook
