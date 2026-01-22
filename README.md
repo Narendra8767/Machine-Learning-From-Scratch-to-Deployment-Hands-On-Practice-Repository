@@ -37,7 +37,7 @@ The focus of this repository is practical understanding, mathematical intuition,
 - **Hyperparameter Optimization:** Optuna  
 - **Model Persistence:** Pickle
 
-```bash
+
 ├── 01-Numpy
 ├── 02-Advance_Numpy.py
 ├── 03-Pandas.py
@@ -127,7 +127,6 @@ The focus of this repository is practical understanding, mathematical intuition,
 │   └── 70pipe.pkl
 │
 └── README.md
-```bash
 
 ##  Setup & Installation
 
