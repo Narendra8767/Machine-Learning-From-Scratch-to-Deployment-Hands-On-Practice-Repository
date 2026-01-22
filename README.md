@@ -43,9 +43,7 @@ Follow the steps below to set up the project locally:
 
 ### Clone the repository
 
-`git clone https://github.com/your-username/your-repo-name.git`
-
-
+`https://github.com/Narendra8767/Machine-Learning-From-Scratch-to-Deployment-Hands-On-Practice-Repository.git`
 
 ### Navigate to the project directory
 
