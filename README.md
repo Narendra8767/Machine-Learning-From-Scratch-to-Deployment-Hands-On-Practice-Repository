@@ -63,7 +63,7 @@ Machine Learning | Data Science | Generative AI
 
 [My Portfolio](https://narendratekale.com/)
  
-[My Portfolio](https://www.linkedin.com/in/narendra-tekale/)
+[Linkedin](https://www.linkedin.com/in/narendra-tekale/)
 
 
 
