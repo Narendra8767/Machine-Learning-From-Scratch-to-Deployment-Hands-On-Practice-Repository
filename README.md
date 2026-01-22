@@ -10,22 +10,22 @@ The focus of this repository is practical understanding, mathematical intuition,
 
 -  **Hands-on implementation of core Machine Learning algorithms**
 -  **From-scratch implementations**, including:
-  - Gradient Descent  
-  - Logistic Regression  
-  - AdaBoost  
+  -   Gradient Descent  
+  -   Logistic Regression  
+  -   AdaBoost  
 -  **Real-world data cleaning & preprocessing pipelines**
 -  **Extensive Exploratory Data Analysis (EDA)** with insightful visualizations
 -  **Scikit-Learn best practices** for training, evaluation, and deployment
 -  **End-to-end Machine Learning pipelines**, featuring:
-  - Encoders  
-  - Imputers  
-  - Feature Transformers  
+  -   Encoders  
+  -   Imputers  
+  -   Feature Transformers  
 -  **Hyperparameter tuning using Optuna** for performance optimization
 -  **Model persistence using Pickle (`.pkl`)** for reuse and deployment
 -  **Projects spanning multiple ML problem domains**:
-  -  Classification  
-  -  Regression  
-  -  Clustering  
+  -    Classification  
+  -    Regression  
+  -    Clustering  
 
 ---
 
@@ -127,3 +127,31 @@ The focus of this repository is practical understanding, mathematical intuition,
 │   └── 70pipe.pkl
 │
 └── README.md
+
+##  Setup & Installation
+
+Follow the steps below to set up the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate to the project directory
+cd your-repo-name
+
+# Install required dependencies
+pip install -r requirements.txt
+
+# Launch Jupyter Notebook
+jupyter notebook
+
+##  Author
+
+**Narendra Tekale**  
+Machine Learning | Data Science | Generative AI  
+📍 Pune, India  
+
+ **Portfolio:** https://narendratekale.com/  
+ **LinkedIn:** https://www.linkedin.com/in/narendra-tekale/  
+
+
