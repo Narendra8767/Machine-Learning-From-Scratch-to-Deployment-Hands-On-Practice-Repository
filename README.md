@@ -1,5 +1,5 @@
 # Machine-Learning-From-Scratch-to-Deployment-Hands-On-Practice-Repository
-### Overview
+## Overview
 
 This repository contains my end-to-end Machine Learning learning journey, where I implemented core ML concepts from scratch and using industry-standard libraries.
 It includes data preprocessing, exploratory data analysis (EDA), feature engineering, model building, evaluation, and ensemble techniques, all backed by hands-on Jupyter notebooks and Python scripts.
@@ -37,21 +37,24 @@ The focus of this repository is practical understanding, mathematical intuition,
 - **Hyperparameter Optimization:** Optuna  
 - **Model Persistence:** Pickle
 
-  ##  Setup & Installation
+##  Setup & Installation
 
 Follow the steps below to set up the project locally:
 
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+### Clone the repository
+
+`git clone https://github.com/your-username/your-repo-name.git`
 
 
-# Navigate to the project directory
-cd your-repo-name
 
-# Install required dependencies
-pip install -r requirements.txt
+### Navigate to the project directory
 
-# Launch Jupyter Notebook
+`cd your-repo-name`
+### Install required dependencies
+
+`pip install -r requirements.txt`
+
+### Launch Jupyter Notebook
 jupyter notebook
 
 ##  Author
