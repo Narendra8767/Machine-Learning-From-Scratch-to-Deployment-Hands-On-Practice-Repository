@@ -1,4 +1,26 @@
 # Machine-Learning-From-Scratch-to-Deployment-Hands-On-Practice-Repository
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Core-blue)
+![From Scratch](https://img.shields.io/badge/From--Scratch-Algorithms-success)
+![Gradient Descent](https://img.shields.io/badge/Algorithm-Gradient%20Descent-6A5ACD)
+![Logistic Regression](https://img.shields.io/badge/Algorithm-Logistic%20Regression-4682B4)
+![AdaBoost](https://img.shields.io/badge/Algorithm-AdaBoost-FF8C00)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Real--World-brightgreen)
+![Preprocessing](https://img.shields.io/badge/Preprocessing-Feature%20Engineering-yellowgreen)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blueviolet)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Insights-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Best%20Practices-F7931E?logo=scikitlearn&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model-Evaluation-important)
+![Deployment Ready](https://img.shields.io/badge/Deployment-Ready-success)
+![ML Pipeline](https://img.shields.io/badge/ML-Pipeline-informational)
+![Encoders](https://img.shields.io/badge/Pipeline-Encoders-blue)
+![Imputers](https://img.shields.io/badge/Pipeline-Imputers-blue)
+![Feature Transformers](https://img.shields.io/badge/Pipeline-Feature%20Transformers-blue)
+![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter%20Tuning-8A2BE2)
+![Optimization](https://img.shields.io/badge/Model-Optimization-critical)
+![Pickle](https://img.shields.io/badge/Model-Pickle%20(.pkl)-blue)
+![Reusable Models](https://img.shields.io/badge/Models-Reusable-success)
+
 ## Overview
 
 This repository contains my end-to-end Machine Learning learning journey, where I implemented core ML concepts from scratch and using industry-standard libraries.
