@@ -66,6 +66,23 @@ Machine Learning | Data Science | Generative AI
 [Linkedin](https://www.linkedin.com/in/narendra-tekale/)
 
 
+##  Acknowledgement & Thanks
+
+A big thank you to **CampusX (Nitish Singh)** for creating one of the most structured, practical, and beginner-friendly Machine Learning learning resources available on YouTube.
+
+This repository is heavily inspired by the learnings and hands-on practice from the following playlist:
+
+ **Machine Learning Full Course – CampusX**  
+[Watch the Playlist](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
+
+The playlist helped me build a strong foundation in:
+- Machine Learning fundamentals  
+- Algorithm implementations from scratch  
+- Real-world data preprocessing and EDA  
+- End-to-end Machine Learning pipelines  
+
+Grateful to **Nitish Singh (CampusX)** for sharing such high-quality content with the community 🙌
+
 
 
 ```bash
